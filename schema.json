@@ -1,0 +1,15 @@
+[
+  {
+    "state": "MA",
+    "postive": {
+      "white": 10
+    },
+    "deceased": {
+      "white": 10
+    }
+  },
+  {
+    "race": "black",
+    "deaths": 10
+  }
+]

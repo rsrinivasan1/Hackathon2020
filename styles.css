@@ -1,0 +1,91 @@
+svg {
+  shape-rendering: crispEdges;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Quattrocento Sans', sans-serif;
+  color: #fff;
+}
+
+h1, h2 {
+  font-family: 'Ovo', serif;
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.icon {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.icon-num {
+  font-size: 48px;
+}
+
+.icon-desc {
+  text-align: center;
+}
+
+.byline {
+
+}
+
+#barChart {
+  margin-top: 40px;
+}
+
+body {
+  /* background-image: url("68293.jpg"); */
+  background-color: rgb(28, 26, 31);
+}
+
+.info {
+  font-family: 'Merriweather', serif;
+  color: #ffffdc
+}
+
+.chart-title {
+  font-family: 'Merriweather', serif;
+  fill: #fff;
+  font-size: 24px;
+  text-anchor: middle;
+}
+
+.chart-axis {
+  font-family: 'Merriweather', serif;
+  text-anchor: middle;
+  fill: #fff;
+  font-size: 18px;
+}
+
+.line {
+  transition: 0.4s ease all;
+}
+
+.bar {
+  fill: #000;
+}
+
+.bar:hover {
+  fill: #555;
+}
+
+.stateBox {
+  font-weight: bold;
+  fill: rgb(33, 33, 39);
+}
+
+.tooltip {
+  fill: #fff;
+  padding: 20px;
+}

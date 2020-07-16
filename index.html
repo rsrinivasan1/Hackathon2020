@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Hackathon 2020</title>
+    <link href="https://fonts.googleapis.com/css2?family=Ovo&family=Quattrocento+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="content">
+      <h1 class="title">The Effects of COVID-19 on Different Races</h1>
+      <div class="byline">By Aiyan Jiang, Will Bordman, and Raghav Srinivasan</div>
+      <div class="byline">(Data from The COVID Tracking Project)</div>
+      <div class="byline"><br /></div>
+      <div class="icons">
+        <div class="icon">
+          <div class="icon-num">
+            7,814
+          </div>
+          <div class="icon-desc">
+            New York - State with most white deaths
+          </div>
+        </div>
+        <div class="icon">
+          <div class="icon-num">
+            5,750
+          </div>
+          <div class="icon-desc">
+            New York - State with most black deaths
+          </div>
+        </div>
+      </div>
+      <div class="info">State with most cases: NY - 374085 cases</div>
+      <div class="info">State with most deaths: NY - 24079 deaths</div>
+      <div class="info">State with most cases of whites: NJ - 32150 cases</div>
+      <div class="info">State with most cases of blacks: IL - 20506 cases</div>
+      <div class="info"><br /></div>
+      <div class="info">Some outliers, such as New Jersey, have such a large amount of cases that they overtake other states.</div>
+      <div class="info">Therefore, this may not be an accurate representation of percentages of cases based on race.</div>
+      <div class="info">Also, many states lack sufficient data to be represented according to reality.</div>
+      <!-- SVG element for D3 to operate on -->
+      <svg id="barChart" height="600" width="1000"></svg>
+      <svg id="barChart2" height="600" width="1000"></svg>
+
+      <h2>United States Map</h2>
+      <svg id="map" height="600" width="440"></svg>
+    </div>
+
+    <!-- Loads d3.js -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- Loads index.js -->
+    <script src="index.js"></script>
+    <script src="deceased.js"></script>
+    <script src="map.js"></script>
+  </body>
+</html>

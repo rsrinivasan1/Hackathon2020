@@ -1,0 +1,522 @@
+[
+  {
+    "state": "AK",
+    "white": 301,
+    "black": 14,
+    "asian": 49,
+    "multiracial": 16,
+    "hispanic": 41,
+    "unknown": 60,
+    "total": 505
+  },
+  {
+    "state": "AL",
+    "white": 7031,
+    "black": 7774,
+    "asian": 85,
+    "multiracial": 0,
+    "hispanic": 1666,
+    "unknown": 4224,
+    "total": 18851
+  },
+  {
+    "state": "AR",
+    "white": 3816,
+    "black": 2515,
+    "asian": 80,
+    "multiracial": 0,
+    "hispanic": 1356,
+    "unknown": 655,
+    "total": 8067
+  },
+  {
+    "state": "AZ",
+    "white": 5195,
+    "black": 773,
+    "asian": 230,
+    "multiracial": 0,
+    "hispanic": 5235,
+    "unknown": 7018,
+    "total": 22223
+  },
+  {
+    "state": "CA",
+    "white": 16402,
+    "black": 4298,
+    "asian": 7387,
+    "multiracial": 638,
+    "hispanic": 44975,
+    "unknown": 34536,
+    "total": 117687
+  },
+  {
+    "state": "CO",
+    "white": 9281,
+    "black": 1580,
+    "asian": 719,
+    "multiracial": 170,
+    "hispanic": 10196,
+    "unknown": 4611,
+    "total": 27060
+  },
+  {
+    "state": "CT",
+    "white": 14814,
+    "black": 5573,
+    "asian": 633,
+    "multiracial": 0,
+    "hispanic": 7766,
+    "unknown": 13927,
+    "total": 43091
+  },
+  {
+    "state": "DC",
+    "white": 1364,
+    "black": 4164,
+    "asian": 106,
+    "multiracial": 0,
+    "hispanic": 2372,
+    "unknown": 1634,
+    "total": 9016
+  },
+  {
+    "state": "DE",
+    "white": 2809,
+    "black": 2565,
+    "asian": 149,
+    "multiracial": 0,
+    "hispanic": 2724,
+    "unknown": 978,
+    "total": 9712
+  },
+  {
+    "state": "FL",
+    "white": 15738,
+    "black": 11289,
+    "asian": 0,
+    "multiracial": 0,
+    "hispanic": 20658,
+    "unknown": 10877,
+    "total": 58764
+  },
+  {
+    "state": "GA",
+    "white": 12264,
+    "black": 15559,
+    "asian": 704,
+    "multiracial": 0,
+    "hispanic": 6476,
+    "unknown": 17781,
+    "total": 48894
+  },
+  {
+    "state": "HI",
+    "white": 200,
+    "black": 6,
+    "asian": 224,
+    "multiracial": 54,
+    "hispanic": 0,
+    "unknown": 0,
+    "total": 653
+  },
+  {
+    "state": "IA",
+    "white": 12021,
+    "black": 2241,
+    "asian": 1833,
+    "multiracial": 0,
+    "hispanic": 5501,
+    "unknown": 3260,
+    "total": 20373
+  },
+  {
+    "state": "ID",
+    "white": 1548,
+    "black": 53,
+    "asian": 44,
+    "multiracial": 137,
+    "hispanic": 671,
+    "unknown": 909,
+    "total": 2990
+  },
+  {
+    "state": "IL",
+    "white": 24128,
+    "black": 20506,
+    "asian": 3556,
+    "multiracial": 0,
+    "hispanic": 39339,
+    "unknown": 31311,
+    "total": 123830
+  },
+  {
+    "state": "IN",
+    "white": 15998,
+    "black": 4856,
+    "asian": 535,
+    "multiracial": 0,
+    "hispanic": 4106,
+    "unknown": 19534,
+    "total": 35712
+  },
+  {
+    "state": "KS",
+    "white": 6291,
+    "black": 995,
+    "asian": 639,
+    "multiracial": 0,
+    "hispanic": 4393,
+    "unknown": 1770,
+    "total": 10170
+  },
+  {
+    "state": "KY",
+    "white": 5376,
+    "black": 1049,
+    "asian": 382,
+    "multiracial": 408,
+    "hispanic": 1110,
+    "unknown": 3392,
+    "total": 10410
+  },
+  {
+    "state": "LA",
+    "white": 0,
+    "black": 0,
+    "asian": 0,
+    "multiracial": 0,
+    "hispanic": 0,
+    "unknown": 0,
+    "total": 41133
+  },
+  {
+    "state": "MA",
+    "white": 26921,
+    "black": 9244,
+    "asian": 1930,
+    "multiracial": 0,
+    "hispanic": 18692,
+    "unknown": 40128,
+    "total": 101592
+  },
+  {
+    "state": "MD",
+    "white": 10757,
+    "black": 15856,
+    "asian": 1048,
+    "multiracial": 0,
+    "hispanic": 14155,
+    "unknown": 10401,
+    "total": 54982
+  },
+  {
+    "state": "ME",
+    "white": 1459,
+    "black": 453,
+    "asian": 35,
+    "multiracial": 11,
+    "hispanic": 65,
+    "unknown": 613,
+    "total": 2418
+  },
+  {
+    "state": "MI",
+    "white": 21472,
+    "black": 17990,
+    "asian": 1160,
+    "multiracial": 4062,
+    "hispanic": 4062,
+    "unknown": 17410,
+    "total": 58035
+  },
+  {
+    "state": "MN",
+    "white": 8995,
+    "black": 5797,
+    "asian": 1582,
+    "multiracial": 505,
+    "hispanic": 5254,
+    "unknown": 6081,
+    "total": 25870
+  },
+  {
+    "state": "MO",
+    "white": 5884,
+    "black": 4299,
+    "asian": 0,
+    "multiracial": 331,
+    "hispanic": 1166,
+    "unknown": 3491,
+    "total": 13767
+  },
+  {
+    "state": "MP",
+    "white": 0,
+    "black": 0,
+    "asian": 0,
+    "multiracial": 0,
+    "hispanic": 0,
+    "unknown": 0,
+    "total": 24
+  },
+  {
+    "state": "MS",
+    "white": 4570,
+    "black": 8805,
+    "asian": 57,
+    "multiracial": 0,
+    "hispanic": 923,
+    "unknown": 2565,
+    "total": 16322
+  },
+  {
+    "state": "MT",
+    "white": 446,
+    "black": 2,
+    "asian": 1,
+    "multiracial": 0,
+    "hispanic": 25,
+    "unknown": 30,
+    "total": 525
+  },
+  {
+    "state": "NC",
+    "white": 12165,
+    "black": 6571,
+    "asian": 629,
+    "multiracial": 0,
+    "hispanic": 8390,
+    "unknown": 9359,
+    "total": 30777
+  },
+  {
+    "state": "ND",
+    "white": 0,
+    "black": 0,
+    "asian": 0,
+    "multiracial": 0,
+    "hispanic": 0,
+    "unknown": 0,
+    "total": 2679
+  },
+  {
+    "state": "NE",
+    "white": 0,
+    "black": 0,
+    "asian": 0,
+    "multiracial": 0,
+    "hispanic": 0,
+    "unknown": 0,
+    "total": 14866
+  },
+  {
+    "state": "NH",
+    "white": 2617,
+    "black": 232,
+    "asian": 114,
+    "multiracial": 0,
+    "hispanic": 338,
+    "unknown": 1231,
+    "total": 4795
+  },
+  {
+    "state": "NJ",
+    "white": 32150,
+    "black": 15671,
+    "asian": 4597,
+    "multiracial": 0,
+    "hispanic": 27358,
+    "unknown": 71317,
+    "total": 162068
+  },
+  {
+    "state": "NM",
+    "white": 969,
+    "black": 192,
+    "asian": 51,
+    "multiracial": 0,
+    "hispanic": 1978,
+    "unknown": 310,
+    "total": 8140
+  },
+  {
+    "state": "NV",
+    "white": 2141,
+    "black": 699,
+    "asian": 683,
+    "multiracial": 0,
+    "hispanic": 2491,
+    "unknown": 2875,
+    "total": 8935
+  },
+  {
+    "state": "NY",
+    "white": 0,
+    "black": 0,
+    "asian": 0,
+    "multiracial": 0,
+    "hispanic": 0,
+    "unknown": 0,
+    "total": 374085
+  },
+  {
+    "state": "OH",
+    "white": 18790,
+    "black": 9139,
+    "asian": 1018,
+    "multiracial": 1395,
+    "hispanic": 2694,
+    "unknown": 8834,
+    "total": 36792
+  },
+  {
+    "state": "OK",
+    "white": 4435,
+    "black": 639,
+    "asian": 188,
+    "multiracial": 0,
+    "hispanic": 1374,
+    "unknown": 945,
+    "total": 6805
+  },
+  {
+    "state": "OR",
+    "white": 2115,
+    "black": 119,
+    "asian": 152,
+    "multiracial": 78,
+    "hispanic": 1502,
+    "unknown": 435,
+    "total": 4399
+  },
+  {
+    "state": "PA",
+    "white": 20563,
+    "black": 9071,
+    "asian": 1082,
+    "multiracial": 0,
+    "hispanic": 5000,
+    "unknown": 55305,
+    "total": 73405
+  },
+  {
+    "state": "RI",
+    "white": 4052,
+    "black": 1399,
+    "asian": 0,
+    "multiracial": 287,
+    "hispanic": 5009,
+    "unknown": 4056,
+    "total": 15219
+  },
+  {
+    "state": "SC",
+    "white": 4588,
+    "black": 4812,
+    "asian": 223,
+    "multiracial": 0,
+    "hispanic": 1359,
+    "unknown": 3360,
+    "total": 12651
+  },
+  {
+    "state": "SD",
+    "white": 1595,
+    "black": 917,
+    "asian": 599,
+    "multiracial": 0,
+    "hispanic": 903,
+    "unknown": 0,
+    "total": 5162
+  },
+  {
+    "state": "TN",
+    "white": 10589,
+    "black": 5472,
+    "asian": 423,
+    "multiracial": 0,
+    "hispanic": 5613,
+    "unknown": 7272,
+    "total": 24822
+  },
+  {
+    "state": "TX",
+    "white": 4130,
+    "black": 2389,
+    "asian": 501,
+    "multiracial": 0,
+    "hispanic": 5981,
+    "unknown": 55174,
+    "total": 68271
+  },
+  {
+    "state": "UT",
+    "white": 3873,
+    "black": 332,
+    "asian": 255,
+    "multiracial": 0,
+    "hispanic": 4190,
+    "unknown": 1031,
+    "total": 10497
+  },
+  {
+    "state": "VA",
+    "white": 14647,
+    "black": 6614,
+    "asian": 0,
+    "multiracial": 0,
+    "hispanic": 15257,
+    "unknown": 16148,
+    "total": 46905
+  },
+  {
+    "state": "VT",
+    "white": 901,
+    "black": 35,
+    "asian": 12,
+    "multiracial": 0,
+    "hispanic": 27,
+    "unknown": 104,
+    "total": 990
+  },
+  {
+    "state": "WA",
+    "white": 6150,
+    "black": 1061,
+    "asian": 1173,
+    "multiracial": 286,
+    "hispanic": 6474,
+    "unknown": 6409,
+    "total": 22484
+  },
+  {
+    "state": "WI",
+    "white": 10114,
+    "black": 3726,
+    "asian": 706,
+    "multiracial": 0,
+    "hispanic": 6535,
+    "unknown": 2334,
+    "total": 19400
+  },
+  {
+    "state": "WV",
+    "white": 1644,
+    "black": 142,
+    "asian": 0,
+    "multiracial": 0,
+    "hispanic": 0,
+    "unknown": 0,
+    "total": 2077
+  },
+  {
+    "state": "WY",
+    "white": 338,
+    "black": 7,
+    "asian": 4,
+    "multiracial": 0,
+    "hispanic": 80,
+    "unknown": 54,
+    "total": 703
+  }
+]
