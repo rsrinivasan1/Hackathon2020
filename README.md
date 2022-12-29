@@ -1,2 +1,2 @@
 # Hackathon2020
-Code for our 2020 Hackathon Project
+Code for our Winning 2020 Hackathon Project
